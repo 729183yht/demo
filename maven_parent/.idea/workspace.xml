@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42841694-fe63-4077-a008-addeb7bee98b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/maven_dao/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven_service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven_web/pom.xml" afterDir="false" />
+    <list default="true" id="42841694-fe63-4077-a008-addeb7bee98b" name="Default Changelist" comment="first commite">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,18 +70,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606219369700</updated>
-      <workItem from="1606219374093" duration="1909000" />
+      <workItem from="1606219374093" duration="2420000" />
     </task>
+    <task id="LOCAL-00001" summary="first commite">
+      <created>1606222298005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606222298006</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commite" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commite" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2520" y="323" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1606220119836">
       <screen x="1920" y="0" width="1549" height="831" />
     </state>
     <state x="2520" y="323" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1606220119836" />
+    <state x="2316" y="11" key="CommitChangelistDialog2" timestamp="1606222412699">
+      <screen x="1920" y="0" width="1549" height="831" />
+    </state>
+    <state x="2316" y="11" key="CommitChangelistDialog2/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1606222412699" />
     <state x="2475" y="171" key="FileChooserDialogImpl" timestamp="1606220118723">
       <screen x="1920" y="0" width="1549" height="831" />
     </state>
@@ -108,6 +122,10 @@
       <screen x="1920" y="0" width="1549" height="831" />
     </state>
     <state x="2204" y="0" key="SettingsEditor/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1606220132887" />
+    <state x="2287" y="149" key="Vcs.Push.Dialog.v2" timestamp="1606222680226">
+      <screen x="1920" y="0" width="1549" height="831" />
+    </state>
+    <state x="2287" y="149" key="Vcs.Push.Dialog.v2/0.0.1549.831/1920.0.1549.831@1920.0.1549.831" timestamp="1606222680226" />
     <state x="2099" y="111" key="new project wizard" timestamp="1606220009250">
       <screen x="1920" y="0" width="1549" height="831" />
     </state>
